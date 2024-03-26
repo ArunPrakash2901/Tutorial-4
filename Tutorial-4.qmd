@@ -1,0 +1,6 @@
+---
+title: "Learning figures and tables"
+author: "Arun Prakash"
+format: html
+editor: visual
+---
